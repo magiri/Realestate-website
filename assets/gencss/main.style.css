@@ -1,0 +1,69 @@
+/*74451b*/
+html, body{
+    font-family: "Open Sans",sans-serif;
+    background-color: #fffaf0;
+}
+.page-header{
+    color:#74451b; 
+    margin-left:7px;
+}
+
+
+h1,h2,h3,h4{
+    color:#36200d; 
+    text-transform:capitalize;  
+}
+.footer{
+    background-color:#74451b;
+    width:100%;
+    margin-top:20px;
+}
+.footer-grid h3 {
+    border-bottom: 1px dashed #4b4b4b;
+    color: #fff;
+    font-family: "Open Sans",sans-serif;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+.row .col-md-mine {
+    padding-left:5px;
+    padding-right:5px;
+}
+
+
+.badge-warning {
+    background-color: #d58512;
+}
+
+.badge-success {
+    background-color: #398439;
+}
+
+.badge-info {
+    background-color: #269abc;
+}
+
+.badge-inverse {
+    background-color: #333333;
+}
+.my-header{
+    background-color:#E6E6E6; 
+    overflow:visible;
+
+}
+.full{
+    width:100% !important;
+}
+.btn-ebony-color {
+    background-color: #74451b;
+    border-color: #74451b;
+    color: #fff;
+}
+.sidemenu{
+font-size:10px !important;
+}
+.eb-main-content{
+    border-right: 1px solid #eee;
+}
